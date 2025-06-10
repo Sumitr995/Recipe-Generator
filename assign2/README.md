@@ -17,11 +17,10 @@ A web app that helps you discover delicious recipes based on random or selected 
 ## 👨‍💻 Team Members
 
 - Sumit Rathod  
-- Pradeep Jha  
-- Hemika Ghag 
-- Shreya Tiwari
+- Pradeep Jha [Github](https://github.com/Pradeepjha011) 
+- Hemika Ghag [Github](https://github.com/Hemikaghag)
+- Shreya Tiwari[Github](https://github.com/Shreyat2406)
 
-> Feel free to add links to team members' GitHub or LinkedIn profiles
 
 ---
 
